@@ -16,6 +16,6 @@ logger.info('🍼 chichi: ', chichi(10, 20));
 MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Discomfort is the currency of your dreams.
+Be a lifelong learner, not a know-it-all.
 🦖
 <!-- INSPIRATIONAL_QUOTE_END -->
